@@ -1,4 +1,4 @@
-# today-i-liked
+# Today I Liked
 Links that I read and recommend
 
 ### December 21, 2016
