@@ -9,4 +9,3 @@ Links that I read and recommend
 
 ### January 13, 2017
 - [My day-to-day as Front-End Developer in 2017 – Medium](https://medium.com/@lfeh/my-day-to-day-as-front-end-developer-in-2017-6d68b5ac2055#.4qd7f46jr) 
-- [My day-to-day as Front-End Developer in 2017 – Medium](https://medium.com/@lfeh/my-day-to-day-as-front-end-developer-in-2017-6d68b5ac2055#.z0egjl2vd) 
