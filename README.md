@@ -10,3 +10,6 @@ Links that I read and recommend
 ### January 13, 2017
 - [My day-to-day as Front-End Developer in 2017 – Medium](https://medium.com/@lfeh/my-day-to-day-as-front-end-developer-in-2017-6d68b5ac2055#.4qd7f46jr) 
 - [Array iteration methods summarized](https://gist.github.com/ljharb/58faf1cfcb4e6808f74aae4ef7944cff?utm_source=javascriptweekly&utm_medium=email) 
+
+### January 16, 2017
+- [Performance Calendar » A Tale of Four Caches](https://calendar.perfplanet.com/2016/a-tale-of-four-caches/?utm_content=kuku.io&utm_medium=social&utm_source=facebook.com&utm_campaign=kuku.io) 
