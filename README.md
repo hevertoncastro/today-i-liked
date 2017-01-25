@@ -13,3 +13,6 @@ Links that I read and recommend
 
 ### January 16, 2017
 - [Performance Calendar » A Tale of Four Caches](https://calendar.perfplanet.com/2016/a-tale-of-four-caches/?utm_content=kuku.io&utm_medium=social&utm_source=facebook.com&utm_campaign=kuku.io) 
+
+### January 25, 2017
+- [superplaceholder.js - super charge your input placeholders](http://kushagragour.in/lab/superplaceholderjs/) 
