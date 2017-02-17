@@ -16,3 +16,6 @@ Links that I read and recommend
 
 ### January 25, 2017
 - [superplaceholder.js - super charge your input placeholders](http://kushagragour.in/lab/superplaceholderjs/) 
+
+### February 16, 2017
+- [ES6 Features](https://codetower.github.io/es6-features/?utm_source=javascriptweekly&utm_medium=email) 
