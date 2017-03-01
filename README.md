@@ -19,3 +19,6 @@ Links that I read and recommend
 
 ### February 16, 2017
 - [ES6 Features](https://codetower.github.io/es6-features/?utm_source=javascriptweekly&utm_medium=email) 
+
+### March 1, 2017
+- [Deep dive CSS: font metrics, line-height and vertical-align - Vincent De Oliveira](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align) 
