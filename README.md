@@ -22,3 +22,6 @@ Links that I read and recommend
 
 ### March 1, 2017
 - [Deep dive CSS: font metrics, line-height and vertical-align - Vincent De Oliveira](http://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align) 
+
+### April 6, 2017
+- [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 
