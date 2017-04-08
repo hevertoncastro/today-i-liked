@@ -25,3 +25,6 @@ Links that I read and recommend
 
 ### April 6, 2017
 - [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) 
+
+### April 8, 2017
+- [Map e Set: objetos que você deve conhecer em JavaScript // __labs__](http://blog.dunderlabs.com/map-e-set-objetos-que-voce-deve-conhecer-em-javascript.html) 
