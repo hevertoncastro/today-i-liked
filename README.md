@@ -28,3 +28,6 @@ Links that I read and recommend
 
 ### April 8, 2017
 - [Map e Set: objetos que você deve conhecer em JavaScript // __labs__](http://blog.dunderlabs.com/map-e-set-objetos-que-voce-deve-conhecer-em-javascript.html) 
+
+### April 12, 2017
+- [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.com/typography-can-make-your-design-or-break-it-7be710aadcfe) 
