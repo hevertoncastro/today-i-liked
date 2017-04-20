@@ -31,3 +31,6 @@ Links that I read and recommend
 
 ### April 12, 2017
 - [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.com/typography-can-make-your-design-or-break-it-7be710aadcfe) 
+
+### April 20, 2017
+- [Understanding React Fiber — Raphamorim](http://raphamorim.io/understanding-react-fiber-incremental-rendering-feature/) 
